@@ -1,0 +1,1 @@
+enum AttributeValueType { bool, int, double, string }

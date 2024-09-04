@@ -1,0 +1,1 @@
+  enum AttributeKind { counter, simple }

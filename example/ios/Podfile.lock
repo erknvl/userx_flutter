@@ -1,0 +1,31 @@
+PODS:
+  - Flutter (1.0.0)
+  - UserX (2.4.0):
+    - UserX/XCFramework (= 2.4.0)
+  - UserX/XCFramework (2.4.0)
+  - userx_flutter (1.1.0):
+    - Flutter
+    - UserX
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - userx_flutter (from `.symlinks/plugins/userx_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - UserX
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  userx_flutter:
+    :path: ".symlinks/plugins/userx_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  UserX: 1f592f9a707e80ffbb83488388865741b77cd0ac
+  userx_flutter: bd7494bcf51bba54bd5b0281c854cb3a23d18980
+
+PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
+
+COCOAPODS: 1.15.2
