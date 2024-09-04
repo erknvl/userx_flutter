@@ -3,8 +3,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:userx_flutter/userx_flutter.dart';
-import 'package:userx_flutter/attributes/Attribute.dart';
-
+import 'package:userx_flutter/attributes/attribute.dart';
 
 void main() {
   runApp(MyApp());
